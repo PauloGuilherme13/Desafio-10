@@ -1,27 +1,5 @@
+@charset "UTF-8";
+
 body{
-    background-color:#EBE5C5 ;
-}
-
-header{
-    background-color: #2a9c5e;
-    height: 300px;
-}
-
-header h1{
-    text-align: center;
-    color: white;
-    
-}
-
-header h2{
-    text-align: center;
-    color: white; 
-}
-
-main{
-    background-color: white;
-    width: 900px;
-    margin-left: 200px;
-    border-radius: 2px 2px 2px black;
-
+    background-color: #c5ebd6;
 }
